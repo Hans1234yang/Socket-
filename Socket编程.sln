@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Server", "03Server\03Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Client", "04Client\04Client.csproj", "{B20BCB94-BEE6-4C49-BEDA-279D100B6118}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02异步委托调用", "02异步委托调用\02异步委托调用.csproj", "{C93F34ED-0F9B-43C8-AB5F-6028327F81BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatServer", "ChatServer\ChatServer.csproj", "{89EFE374-A4D5-4B30-8E82-14C92CFDED58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{B20BCB94-BEE6-4C49-BEDA-279D100B6118}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B20BCB94-BEE6-4C49-BEDA-279D100B6118}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B20BCB94-BEE6-4C49-BEDA-279D100B6118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93F34ED-0F9B-43C8-AB5F-6028327F81BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93F34ED-0F9B-43C8-AB5F-6028327F81BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93F34ED-0F9B-43C8-AB5F-6028327F81BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93F34ED-0F9B-43C8-AB5F-6028327F81BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EFE374-A4D5-4B30-8E82-14C92CFDED58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EFE374-A4D5-4B30-8E82-14C92CFDED58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EFE374-A4D5-4B30-8E82-14C92CFDED58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EFE374-A4D5-4B30-8E82-14C92CFDED58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
